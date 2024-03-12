@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b3f3889-4ef4-4c4a-9f59-229cf939892f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HerDataCampProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setting_up_working_environment.py" afterDir="false" />
-    </list>
+    <list default="true" id="1b3f3889-4ef4-4c4a-9f59-229cf939892f" name="Changes" comment="Klasik yazılımcı çalışması yapıldı. Hello world yazdırıldı." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +36,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
   }
 }]]></component>
   <component name="RunManager">
@@ -91,6 +88,75 @@
       <option name="presentableId" value="Default" />
       <updated>1710242206626</updated>
     </task>
+    <task id="LOCAL-00001" summary="Klasik yazılımcı çalışması yapıldı. Hello world yazdırıldı.">
+      <option name="closed" value="true" />
+      <created>1710243387387</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710243387387</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Klasik yazılımcı çalışması yapıldı. Hello world yazdırıldı.">
+      <option name="closed" value="true" />
+      <created>1710243423190</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710243423190</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Klasik yazılımcı çalışması yapıldı. Hello world yazdırıldı.">
+      <option name="closed" value="true" />
+      <created>1710243435296</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710243435296</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Klasik yazılımcı çalışması yapıldı. Hello world yazdırıldı.">
+      <option name="closed" value="true" />
+      <created>1710243471824</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710243471824</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Klasik yazılımcı çalışması yapıldı. Hello world yazdırıldı.">
+      <option name="closed" value="true" />
+      <created>1710243551360</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710243551360</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Klasik yazılımcı çalışması yapıldı. Hello world yazdırıldı.">
+      <option name="closed" value="true" />
+      <created>1710243582038</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710243582038</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Klasik yazılımcı çalışması yapıldı. Hello world yazdırıldı.">
+      <option name="closed" value="true" />
+      <created>1710243610718</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710243610718</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Klasik yazılımcı çalışması yapıldı. Hello world yazdırıldı.">
+      <option name="closed" value="true" />
+      <created>1710243659253</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710243659253</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Klasik yazılımcı çalışması yapıldı. Hello world yazdırıldı." />
+    <option name="LAST_COMMIT_MESSAGE" value="Klasik yazılımcı çalışması yapıldı. Hello world yazdırıldı." />
   </component>
 </project>
