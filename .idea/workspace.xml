@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b3f3889-4ef4-4c4a-9f59-229cf939892f" name="Changes" comment="Sayılar ve Karakter dizileri gösterildi.">
+    <list default="true" id="1b3f3889-4ef4-4c4a-9f59-229cf939892f" name="Changes" comment="Atamalar ve değişkenler gösterildi.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/setting_up_working_environment.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting_up_working_environment.py" afterDir="false" />
     </list>
@@ -43,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "terminal"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -264,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710246329515</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Atamalar ve değişkenler gösterildi.">
+      <option name="closed" value="true" />
+      <created>1710246838089</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1710246838089</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,7 +289,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Klasik yazılımcı çalışması yapıldı. Hello world yazdırıldı." />
     <MESSAGE value="Sayılar ve Karakter dizileri gösterildi." />
-    <option name="LAST_COMMIT_MESSAGE" value="Sayılar ve Karakter dizileri gösterildi." />
+    <MESSAGE value="Atamalar ve değişkenler gösterildi." />
+    <option name="LAST_COMMIT_MESSAGE" value="Atamalar ve değişkenler gösterildi." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
