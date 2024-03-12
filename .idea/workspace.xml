@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b3f3889-4ef4-4c4a-9f59-229cf939892f" name="Changes" comment="Atamalar ve değişkenler gösterildi.">
+    <list default="true" id="1b3f3889-4ef4-4c4a-9f59-229cf939892f" name="Changes" comment="Conda ile paket yönetimi için önemli komutlar açıklandı.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/setting_up_working_environment.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting_up_working_environment.py" afterDir="false" />
     </list>
@@ -272,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710246838089</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Conda ile paket yönetimi için önemli komutlar açıklandı.">
+      <option name="closed" value="true" />
+      <created>1710250759799</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1710250759799</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -290,7 +298,8 @@
     <MESSAGE value="Klasik yazılımcı çalışması yapıldı. Hello world yazdırıldı." />
     <MESSAGE value="Sayılar ve Karakter dizileri gösterildi." />
     <MESSAGE value="Atamalar ve değişkenler gösterildi." />
-    <option name="LAST_COMMIT_MESSAGE" value="Atamalar ve değişkenler gösterildi." />
+    <MESSAGE value="Conda ile paket yönetimi için önemli komutlar açıklandı." />
+    <option name="LAST_COMMIT_MESSAGE" value="Conda ile paket yönetimi için önemli komutlar açıklandı." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

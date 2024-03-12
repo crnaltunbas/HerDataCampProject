@@ -45,6 +45,22 @@ a-c
 #  conda upgrade conda
 #  Tüm paketlerin yükseltilmesi için aşağıdaki komut kullanılır.
 #  conda upgrade -all
+#  Oluşturulan sanal ortamın silinmesi için aşağıdaki komut kullanılır.
+#  conda env remove -n silinmek istenen sanal ortamın ismi yazılır.
+
+
+#  pip: pypi (python package index) paket yönetim aracı
+#  Paket yüklemek için aşağıdaki komut kullanılır.
+#  pip install  paket adı
+#  Versiyona göre paket yüklemek için aşağıdaki komut kullanılır.
+#  pip install pandas==2.2.0
+#  Eğer bir başka çalışmaya veya bir arkadaşınıza versiyon olarak paketleri aktabilmek istiyorsanız bunun iki yolu
+#  vardır. İlk olarak pip dünyasında requirements.txt komutu ile conda dünyasında environment.yaml komutu ile bunu
+#  gerçekleştirebilirsiniz. Biz condada conda env export > environment.yaml komutunu kullandık. yaml uzantısı yml
+#  uzantılı olarakta karşımıza çıkar.
+#  Diyelim ki biz bir çalışma yapacağız ve arkadaşımızın yaml dosyasından versiyonları kendimize alarak yeni ama aynı
+#  sanal ortamı oluşturmak için conda env create -f environment.yaml komutunu kullanarak aynı sanal ortamı oluşturabilir
+#  ve aktif ederek sonrasında paketleri listeleyerek aynı sanal ortamın oluştuğunu görebilirsiniz.
 
 
 
