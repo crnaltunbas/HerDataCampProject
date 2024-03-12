@@ -9,3 +9,13 @@ print("Hello AI Ero")
 type("naber cano?")
 #  type() foksiyonu değişkenimizin, verimizin hangi veri tipinde olduğunu gösterir.
 
+#  Atamalar ve Değişkenler (Assignments & Variables)
+
+a=15
+a
+b="Hello ai cano"
+b
+c=10
+a*c
+a*20
+a-c
